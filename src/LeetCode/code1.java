@@ -3,6 +3,9 @@ package LeetCode;
 // 测试branch,merge功能
 // 测试近端、远端的影响
 // 两个都是远端
+// 远端修改，制造冲突
+import ;
+import ;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;

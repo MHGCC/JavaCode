@@ -3,7 +3,12 @@ package LeetCode;
 // 测试branch,merge功能
 // 测试近端、远端的影响
 // 两个都是远端
-// 远端修改，制造冲突
+// test/02，测试从远端pull文件后merge的冲突
+// 本地修改，制造冲突
+import javax.swing.text.Utilities;
+import com.Ari.Arith;
+
+// 发送到仓库分支，用于测试
 import ;
 import ;
 import java.util.Arrays;

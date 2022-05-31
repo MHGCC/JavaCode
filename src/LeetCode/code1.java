@@ -3,7 +3,7 @@ package LeetCode;
 // 测试branch,merge功能
 // 测试近端、远端的影响
 // 两个都是远端
-// 远端的分支修改，用于测试
+// 远端的分支修改，用于测试分支
 import ；
 import ；
 import java.util.Arrays;
